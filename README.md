@@ -1,2 +1,2 @@
 # blinx
-Crypto project movement 
+A Crypto Project Movement 
